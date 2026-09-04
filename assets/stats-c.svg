@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="228" viewBox="0 0 880 228" role="img">
+<title>Opened and merged</title>
+<rect width="880" height="228" fill="#0d1117"/>
+
+<text x="0" y="22" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="700" fill="#e6edf3">Opened and merged</text>
+<line x1="0" y1="34" x2="880" y2="34" stroke="#30363d" stroke-width="1"/>
+
+<rect x="0" y="48" width="430" height="168" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="20" y="72" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8b949e">OSS · OTHER PEOPLE'S REPOS</text>
+<text x="40" y="108" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="700" fill="#8b949e">OPENED</text>
+<text x="40" y="148" font-family="ui-sans-serif,system-ui,sans-serif" font-size="44" font-weight="700" fill="#3fb950">25</text>
+<text x="40" y="174" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8b949e">PRs · 17 repos</text>
+<text x="240" y="108" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="700" fill="#8b949e">MERGED</text>
+<text x="240" y="148" font-family="ui-sans-serif,system-ui,sans-serif" font-size="44" font-weight="700" fill="#3fb950">7</text>
+<text x="240" y="174" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8b949e">PRs · 7 repos on the wall</text>
+<text x="20" y="200" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" fill="#6e7681">Opened includes merged. Hall of fame lives on GitHub.</text>
+
+<rect x="450" y="48" width="430" height="168" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="470" y="72" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#8b949e">MINE · GITHUB.COM/BALGALY</text>
+<text x="470" y="118" font-family="ui-sans-serif,system-ui,sans-serif" font-size="22" font-weight="700" fill="#58a6ff">skit · brif · workwright · fifty</text>
+<text x="470" y="152" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8b949e"><tspan fill="#58a6ff" font-size="20" font-weight="700">4</tspan>  pins · the shop window</text>
+<text x="470" y="200" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11" fill="#6e7681">Heatmap below is this column.</text>
+
+</svg>
