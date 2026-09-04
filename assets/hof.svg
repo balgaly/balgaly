@@ -4,7 +4,7 @@
 <rect width="920" height="480" fill="#0d1117"/>
 
 <text x="0" y="22" font-family="ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Hall of fame</text>
-<text x="0" y="42" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#8b949e">Merged into someone else's repo · 7 on the wall · opened-unmerged sits off it</text>
+<text x="0" y="42" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#8b949e">Merged into someone else's repo · 7 on the wall</text>
 
 <rect x="0" y="56" width="448" height="92" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
 <image href="data:image/jpeg;base64,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" x="16" y="78" width="48" height="48"/>
@@ -47,12 +47,6 @@
 <text x="78" y="400" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16" font-weight="700" fill="#e6edf3">skills-il mcps</text>
 <text x="78" y="420" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#6e7681">Apr 2026</text>
 <text x="78" y="442" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8b949e">Rebuilt TASE MCP against the live Data Hub API.</text>
-
-<rect x="460" y="368" width="448" height="92" rx="12" fill="#161b22" stroke="#6e7681" stroke-width="1"/>
-
-<text x="478" y="400" font-family="ui-sans-serif,system-ui,sans-serif" font-size="16" font-weight="700" fill="#8b949e">LangChain · LiteLLM · LlamaIndex · Ollama</text>
-<text x="478" y="420" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#6e7681">pending</text>
-<text x="478" y="442" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#6e7681">Opened, not merged. Off the wall until they land.</text>
 
 
 </svg>
